@@ -4,7 +4,7 @@
 
 ## Reda Elmabrouki — Cloud Security Engineer
 
-I design and build security tooling for cloud infrastructure. My flagship project is **Aegis**, a multi-cloud Infrastructure-as-Code security scanner written in Go — engine, detection rules, evaluation science, CI/CD and releases, all in this account.
+I design and build security tooling for cloud infrastructure. My flagship project is **Aegis**, a multi-cloud Infrastructure-as-Code security scanner written in Go engine, detection rules, evaluation science, CI/CD and releases, all in this account.
 
 ### 🛡️ Aegis Engine
 
